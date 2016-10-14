@@ -1,6 +1,3 @@
 # hello-world
-Just a start
 
-PhD student in International Relations,
-Politics Department, 
-University of Virginia
+A new commer in the programming world
